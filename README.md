@@ -1,7 +1,3 @@
-# ⚠️ Disclaimer: This software is provided "AS IS", with no warranty. I am not responsible for any damages, losses, or personal/work-related consequences resulting from its use or misuse.
-
-# 🛑 This software is no longer maintained. No updates, bug fixes, or technical support will be provided. Use entirely at your own risk.
-
 # ANeT SelfService Shift Bot
 Scans for available shifts on the ANeT SelfService website (used by big organizations like TESCO etc...) and alerts a telegram chat/groupchat if some available shifts are found. Compatible with OneLogin MFA, fully controlled by commands via telegram chat, and much more...
 
@@ -37,3 +33,9 @@ Token can be acquired with [BotFather](https://help.superchat.com/en/articles/14
 Main Chat ID can be acquired by ANeT Bot itself using `/id` command. This chat is for larger group of people (when 10 people have access to this bot but only few are "admins")
 Priority Chat ID can be acquired the same way as before... The initial alert that there are available shifts with arrive here, after executing `/publish` command in this chat the shifts will be announced to the main group chat. This is to make sure selected people are guaranteed to get the shifts first.
 MFA Chat ID is ID of the private chat between you and the bot only.
+
+
+
+## ⚠️ Disclaimer: This software is provided "AS IS", with no warranty. I am not responsible for any damages, losses, or personal/work-related consequences resulting from its use or misuse.
+
+## 🛑 This software is no longer maintained. No updates, bug fixes, or technical support will be provided. Use entirely at your own risk.
