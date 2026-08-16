@@ -1,3 +1,7 @@
+# ⚠️ Disclaimer: This software is provided "AS IS", with no warranty. I am not responsible for any damages, losses, or personal/work-related consequences resulting from its use or misuse.
+
+# 🛑 This software is no longer maintained. No updates, bug fixes, or technical support will be provided. Use entirely at your own risk.
+
 # ANeT SelfService Shift Bot
 Scans for available shifts on the ANeT SelfService website (used by big organizations like TESCO etc...) and alerts a telegram chat/groupchat if some available shifts are found. Compatible with OneLogin MFA, fully controlled by commands via telegram chat, and much more...
 
