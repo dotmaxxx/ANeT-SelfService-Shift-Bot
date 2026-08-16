@@ -3,13 +3,19 @@ Scans for available shifts on the ANeT SelfService website (used by big organiza
 
 # What is this? Why this exists? Is this moral? Can I get in trouble for using this?
 Q: What is this?
-A: A bot that automates human actions and saves someones time since the constant checking of shifts handles the bot more consistently and efficiently.
+A: A bot that automates human actions and saves your time since the constant checking of shifts handles the bot more consistently and efficiently.
 
 Q: Why this exists?
 A: Started as a simple project of mine since I wanted to work more and earn more money, but I did not have the time to refresh the available shifts page every half a hour. I ended up expanding and giving it to some trusted friends that used this and got many work hours thanks to this bot
 
 Q: Is this moral?
 A: Short answer, hell no. Long answer, it automates what I would have done manually but can be considered "unfair" against other part-timers who are limited by IRL events and complications they may face.
+
+Q: Can I get in trouble for this?
+A: I've asked around and to my knowledge there isn't much they can do. You aren't breaching their internal systems or "hacking" the site somehow. You are using basic HTML tags and classes to automate some actions that can be performed by the user naturally. The most that can happen is being disliked among the coworkers and managers.
+
+Q: Is this detectable? Can somebody find out?
+A: Yes they can, however it would require long period of analyzing your timing of requests to the websites but you can say that you refresh the site every X minutes and that you have it as a routine. Other than that there no way for them to find out that you are using this bot unless you tell them.
 
 # ! Example of .env file ! REQUIRED TO WORK AS PLUG AND PLAY !
 Create a file named `.env` in the same directory as main.py is placed.
