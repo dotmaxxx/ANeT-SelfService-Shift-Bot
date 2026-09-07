@@ -2,14 +2,14 @@
 Scans for available shifts on the ANeT SelfService website (used by big organizations like TESCO etc...) and alerts a telegram chat/groupchat if some available shifts are found. Compatible with OneLogin MFA, fully controlled by commands via telegram chat, and much more...
 
 # Requirements
-Create a file requirements.txt
+Create a file requirements.txt and put this inside it:
 ```
 python-dotenv
 anet
 python-telegram-bot
 selenium
 ```
-Run this from the same directory
+Run this code in CMD from the same directory
 ```pip install -r requirements.txt```
 
 # What is this? Why this exists? Is this moral? Can I get in trouble for using this?
